@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-30 18:27:52,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
+2025-10-01 06:25:16,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td&region=shanghai
@@ -16,45 +16,19 @@ CETV-1,https://cc06.tv12.xyz/23.m3u8
 世界地理,https://cc06.tv12.xyz/104.m3u8
 
 📡卫视频道,#genre#
-广东卫视,https://cc06.tv12.xyz/43.m3u8
-浙江卫视,https://cc06.tv12.xyz/117.m3u8
-湖南卫视,https://cc06.tv12.xyz/57.m3u8
-北京卫视,https://cc06.tv12.xyz/27.m3u8
-黑龙江卫视,https://cc06.tv12.xyz/53.m3u8
-安徽卫视,https://cc06.tv12.xyz/26.m3u8
-重庆卫视,https://cc06.tv12.xyz/34.m3u8
-东方卫视,https://cc06.tv12.xyz/37.m3u8
-东南卫视,https://cc06.tv12.xyz/38.m3u8
-甘肃卫视,https://cc06.tv12.xyz/44.m3u8
-广西卫视,https://cc06.tv12.xyz/46.m3u8
-贵州卫视,https://cc06.tv12.xyz/48.m3u8
-海南卫视,https://cc06.tv12.xyz/93.m3u8
-河北卫视,https://cc06.tv12.xyz/51.m3u8
-河南卫视,https://cc06.tv12.xyz/49.m3u8
-吉林卫视,https://cc06.tv12.xyz/60.m3u8
-江苏卫视,https://cc06.tv12.xyz/61.m3u8
-江西卫视,https://cc06.tv12.xyz/62.m3u8
-青海卫视,https://cc06.tv12.xyz/97.m3u8
-山东卫视,https://cc06.tv12.xyz/101.m3u8
-山西卫视,https://cc06.tv12.xyz/107.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-陕西卫视,https://cc06.tv12.xyz/106.m3u8
-四川卫视,https://cc06.tv12.xyz/99.m3u8
-深圳卫视,https://cc06.tv12.xyz/108.m3u8
-云南卫视,https://cc06.tv12.xyz/114.m3u8
 
 🏀体育频道,#genre#
 五星体育,https://other.ottiptv.cc/wxty.m3u8
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667
-精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 
 🪁动画频道,#genre#
-金鹰卡通,https://cc06.tv12.xyz/55.m3u8
 海绵宝宝,https://live.metshop.top/douyu/3949681
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
